@@ -8,7 +8,7 @@ This dryer aids small-scale farmers in minimizing post-harvest losses and reduce
 **SunHarvest Dryer Prototype**
 
 The construction team had 14 youth from the community, with 7 females leading the development of the SunHarvest Dryer prototype and 7 males contributing as well. Amoko is responsible for documentation, while Eunice handles media production.
-![SunHarvest Dryer Prototype](https://doc.asknet.community/uploads/824cc80f-ba56-43f7-b7ee-98f776c59184.jpg)
+
 
 ## Principles of Operation
 
