@@ -28,7 +28,7 @@
 
 . ensure a tight seal to prevent air leaks.
 
-##STEP 6: ADDING BLACK DPC cover all the frame Body
+## STEP 6: ADDING BLACK DPC cover all the frame Body
 
 . cut a block DPC to fit all the body dryer 
 
