@@ -1,26 +1,26 @@
-#Step 1: sitting  and measurement.
+## Step 1: sitting  and measurement.
 
 -Identify a suitable loction for the solar dryer, considering sunlight exposure and accessiblility.
 
 -Measure the area where the dryer will be constructed
-##STEP 2: SETTING THE FRAMEWORK
+## STEP 2: SETTING THE FRAMEWORK
 
 . Constructe a rectangular frame using wooden or metal beams, based on the mesaured areas.
 .Ensure the frame is sturdy and level.
 
-##STEP 3: ATTACHING WIRE MESH
+## STEP 3: ATTACHING WIRE MESH
 
 
 .Cut wiremish to fit the frame, leaving some excess for folding.
 
 .attache the wire mesh to the frame using nails or wire
 
-##STEP 4: SECURING WIRE MESH
+## STEP 4: SECURING WIRE MESH
 
 . fold the excess wire mesh over the frame and nail it in place
 
 . ensure the mesh is tight and evenly spaced.
-##STEP 5: COVERING WITH DPC (Durable plactic coasting)
+## STEP 5: COVERING WITH DPC (Durable plactic coasting)
 
 . cut DPC sheets to fit the top and sides of thr eframe
 
@@ -47,7 +47,7 @@
 
 . attach the vents to the side sides of the dryer, ensuringproper airflow.
 
-##STEP 9: FINAL ASSEMBY AND TESTING
+## STEP 9: FINAL ASSEMBY AND TESTING
 
 .Assemble all components,ensuring atight seal and proper airflow.
 
