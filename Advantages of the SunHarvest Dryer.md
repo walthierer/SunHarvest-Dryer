@@ -8,7 +8,7 @@ In Pagirinya Refugee Settlement, food wastage is a pressing issue, particularly 
 - Unfortunately, up to **40%** of their harvests, especially perishable crops like fruits and vegetables, are lost due to a lack of proper preservation methods.
 - This problem is even more severe during the rainy season, leading to increased food insecurity.
 
-![Food Wastage in Pagirinya](https://example.com/pagirinya-food-wastage-graph.jpg)
+![5952062071204069772](https://github.com/user-attachments/assets/20b5e40e-054f-40c9-8f9d-01aeee9603dd)
 
 ### **Impact on the Community**
 - By using the SunHarvest Dryer, families in Pagirinya can potentially **cut food wastage in half**, ensuring they have enough to eat throughout the year.
@@ -25,7 +25,8 @@ For many in Pagirinya, farming is not just about feeding their families; it’s 
 - With the SunHarvest Dryer, families can dry and sell fruits, vegetables, and herbs at local markets, tapping into new income streams.
 - This could lead to a **20-25% increase in household income**, giving families in Pagirinya a better chance at financial independence.
 
-![Economic Empowerment in Pagirinya](https://example.com/pagirinya-economic-impact.jpg)
+![image](https://github.com/user-attachments/assets/6a751141-5da7-4e3c-a7f0-e1b0991bd985)
+
 
 ## **3. Promoting Environmental Sustainability**
 Sustainability is critical in Pagirinya, where the growing population puts pressure on natural resources. The SunHarvest Dryer helps alleviate some of this pressure.
@@ -34,7 +35,8 @@ Sustainability is critical in Pagirinya, where the growing population puts press
 - Waste management is a challenge in Pagirinya, and food waste contributes to environmental issues like methane emissions from decomposing organic matter.
 - Using the SunHarvest Dryer reduces the amount of food waste, which in turn lowers these emissions and helps protect the environment.
 
-![Environmental Sustainability in Pagirinya](https://example.com/pagirinya-environmental-impact.jpg)
+![image](https://github.com/user-attachments/assets/300afe3b-451b-4756-847c-42aa4e291485)
+
 
 ### **Sustainable Practices**
 - The dryer runs entirely on **solar energy**, making it an eco-friendly option for preserving food. This is especially important in areas like Pagirinya, where access to other forms of energy is limited.
@@ -47,7 +49,9 @@ Good nutrition is essential, especially for vulnerable populations like those in
 - Malnutrition is a significant issue in Pagirinya, with many children suffering from chronic undernutrition.
 - Seasonal food shortages only make things worse, leading to a diet that is often lacking in essential nutrients.
 
-![Nutritional Benefits in Pagirinya](https://example.com/pagirinya-nutritional-benefits.jpg)
+![image](https://github.com/user-attachments/assets/be556599-adf4-43d8-971b-bc2a4aeda99e)
+
+
 
 ### **Health Benefits**
 - The SunHarvest Dryer retains most of the nutrients in dried foods, ensuring that families have access to healthy, nutrient-rich meals throughout the year.
@@ -56,5 +60,7 @@ Good nutrition is essential, especially for vulnerable populations like those in
 ## **Conclusion**
 The SunHarvest Dryer is more than just a tool; it’s a lifeline for the residents of Pagirinya Refugee Settlement. It helps reduce food wastage, creates economic opportunities, supports environmental sustainability, and improves health and nutrition. By embracing this technology, Pagirinya can take a significant step towards becoming a more resilient and self-sufficient community.
 
-**Prepared by:** [Your Name]  
-**Date:** [Date]
+![screenshot-1725100212245](https://github.com/user-attachments/assets/798f7c16-d154-4e5e-aea3-972743b49294)
+
+
+
