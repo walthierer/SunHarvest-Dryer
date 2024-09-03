@@ -13,19 +13,19 @@
 
 | **Tools**                   |                                                           | Quantity | Unit Cost (UGX) | Total Cost (UGX) |
 |-----------------------------|-----------------------------------------------------------|----------|-----------------|-----------------|
-| Tape measure                | Used for measuring lengths and dimensions                 | 1        | 20,000 |20,000  |
+| Tape measure                | Used for measuring lengths and dimensions                 | 1        | 10,000 |10,000  |
 | Spirit level                | Ensures surfaces are level                                | 1        | 15,000 |15,000  |
-| Hand saw                    | For cutting wood and other materials                      | 1        |20,000  | 20,000 |
-| Hammer                      | Used for driving nails and other tasks                    | 1        |25,000  |25,000  |
-| Square                      | Ensures right angles during construction                  | 1        | 12,000 |12,000  |
-| Bow saw                     | A saw with a narrow blade tensioned in a bow-shaped frame | 1        |  |  |
+| Hand saw                    | For cutting wood and other materials                      | 1        |18,000  | 18,000 |
+| Hammer                      | Used for driving nails and other tasks                    | 1        |15,000  |15,000  |
+| Square                      | Ensures right angles during construction                  | 1        | 7,000 |7,000  |
+| Bow saw                     | A saw with a narrow blade tensioned in a bow-shaped frame | 1        | 35000 |35000 |
 | Permanent markers           | Used for marking measurements and other notes             | 1        |  |  |
-| Wood glue                   | Adhesive for bonding wood pieces                          | 1 tin    |  |  |
+| Wood glue                   | Adhesive for bonding wood pieces                          | 1 tin    | 12000 |12000  |
 | Flipchart                   | For presentations and notes                               | 1        |  |  |
 | Marker pen                  | Used for writing on the flipchart and labelling the wood when measuring                         | 1 box       |25,000  |25,000  |
 | Pen and shorthand book      | For taking notes and recording measurements               | 1        |  |  |
-| Camera                      | For documenting the project                               |          |  |  |
-| Tripod                      | Stabilizes the camera for clear photos                    |          |  |  |
+| Hand gloves                      | For safety and handling other tools                              |      3    | 5000 | 15000 |
+| Ironsheet scissors                     | For cutting the Polythene and wiremesh                    |      1 pair    | 25000 | 25000 |
 
 | **Labor**                   |                                                           | Quantity | Unit Cost (UGX) | Total Cost (UGX) |
 |-----------------------------|-----------------------------------------------------------|----------|-----------------|-----------------|
@@ -37,9 +37,9 @@
 ---
 
 ## **Total Expenditure**
-- **Materials**: UGX [Total Cost of Materials]
-- **Tools**: UGX [Total Cost of Tools]
-- **Labor**: UGX [Total Cost of Labor]
+- **Materials**: UGX 225000
+- **Tools**: UGX 117000
+- **Labor**: UGX 182000
 
-**Grand Total**: UGX [Grand Total Cost]
+**Grand Total**: UGX 524000
 
