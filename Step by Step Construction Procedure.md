@@ -19,13 +19,11 @@
 . Ensure a tight seal to prevent air leaks.
 
 ## STEP 6: ADDING BLACK DPC cover all the frame Body
-
 . Cut a block DPC to fit all the body dryer 
 . Cover all the side by side with block DPC sheet,enusing a tight seal..
 
 ## STEEP 7: ADDING WHITE DPC OR glass to cover the TOP.
 . Cut a white DPC sheet OR Glass to fitz the top of the dryer
-
 . Cover the top with the white DPC sheet or glass, ensuring a tight seal.
 
 ## STEP 8: CREATEING  INLET AND OUTLET AIR VENTS
