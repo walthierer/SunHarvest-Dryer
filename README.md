@@ -112,6 +112,5 @@ The key principles involved are:
 - **Automated Ventilation**: Add a small solar-powered fan for improved air circulation.
 - **Temperature Control**: Install a thermostat to regulate the internal temperature automatically.
 
-## Challenges Encountered
-
-## Feedback from Community
+## Credits
+This is project by YEF, Pagriniya Refugee Settlement (Uganda), in collaboration with r0g_agency for open culture and critical transformation gGmbH, under (Berlin) funded by means of the German Federal Ministry for Economic Cooperation and Development (BMZ) Licensed under a Creative Commons Attribution-ShareAlike 4.0 Unported License (CC BY-SA 4.0)
