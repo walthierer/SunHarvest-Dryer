@@ -12,7 +12,7 @@ By the end of this training, participants will be able to:
 - Apply DIY (Do It Yourself) and DIWO (Do It With Others) methodologies to promote sustainable practices within their communities.
 
 ## Table of Contents
-1. [Introduction](Expenditure.md)
+1. [Introduction](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#introduction)
 2. [Principles of Operation](#principles-of-operation)
 3. [Tools & Materials](#tools--materials)
 4. [Construction Steps](#construction-steps)
