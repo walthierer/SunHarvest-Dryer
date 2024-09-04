@@ -13,7 +13,7 @@ By the end of this training, participants will be able to:
 
 ## Table of Contents
 1. [Introduction](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#introduction)
-2. [Principles of Operation](#principles-of-operation)
+2. [Principles of Operation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#principles-of-operation)
 3. [Tools & Materials](#tools--materials)
 4. [Construction Steps](#construction-steps)
     - [Build the Frame](#1-build-the-frame)
