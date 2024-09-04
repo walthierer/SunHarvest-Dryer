@@ -15,19 +15,15 @@ By the end of this training, participants will be able to:
 1. [Introduction](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#introduction)
 2. [Principles of Operation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#principles-of-operation)
 3. [Tools & Materials](Tools%20and%20materials%20used.md)
-4. [Construction Steps](#construction-steps)
-    - [Build the Frame](#1-build-the-frame)
-    - [Install the Trays](#2-install-the-trays)
-    - [Attach the Cover](#3-attach-the-cover)
-    - [Cover the Inner Surface](#4-cover-the-inner-surface-with-a-black-dpc-polythene)
-    - [Add Ventilation](#5-add-ventilation)
+4. [Construction Steps](Step%20by%20Step%20Construction%20Procedure.md)
+    - [Build the Frame](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#1-build-the-frame)
+    - [Install the Trays](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#2-install-the-trays)
+    - [Attach the Cover](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#3-attach-the-cover)
+    - [Cover the Inner Surface](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#4-cover-the-inner-surface-with-a-black-dpc-polythene)
+    - [Add Ventilation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#5-add-ventilation)
     - [Optional Enhancements](#6-optional-enhancements)
-5. [Usage Instructions](#usage-instructions)
+5. [Usage Instructions](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#6-optional-enhancements)
 6. [Construction Expenditure](Expenditure.md)
-8. [Potential Modifications](#potential-modifications)
-9. [Step by step construction procedure](Step%20by%20Step%20Construction%20Procedure.md)
-10. [Licence](#licence)
-11. 
 
 ## Introduction
 
@@ -42,6 +38,25 @@ The SunHarvest Dryer operates by:
 
 ## Specifications
 
+| **Feature**           | **Details**                                                        |
+|-----------------------|--------------------------------------------------------------------|
+| **Dimensions**        | Length: 193 cm, Width: 96.5 cm, Height: 120-150 cm (sloped)        |
+| **Materials**         | Timber (1x12, 3x4 inches), DPC black polythene, UV polythene       |
+| **Drying Trays**      | Wire mesh (183x86.5 cm)                                            |
+| **Ventilation**       | Air inlets at the bottom, air outlets at the top                   |
+| **Optional Features** | Reflective surfaces, thermometer, solar-powered fans               |
+| **Capacity**          | 10-15 kg of food per session                                       |
+| **Drying Time**       | 1-3 days, depending on weather conditions                          |
+| **Weight**            | Approximately 50 kg                                                |
+| **Lifespan**          | Long-term use with minimal maintenance                             |
+| **Environmental Impact** | Uses renewable solar energy, compact design                     |
+
+## Logo
+<p>
+  <img src="https://github.com/user-attachments/assets/99f9cb48-c072-422e-9232-48b4ebd6dbfe" alt="YEF logo" style="width: 45%; display: inline-block; vertical-align: middle; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/fa405c0a-3e86-42d8-8848-75c9585854e8" alt="Asknet" style="width: 45%; display: inline-block; vertical-align: middle;">
+</p>
+
 
 ## Credits
 
@@ -50,4 +65,3 @@ This project is a collaboration between the Youth Empowerment Foundation at Pagi
 ## Licence
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/).
-
