@@ -26,7 +26,7 @@ By the end of this training, participants will be able to:
 6. [Safety Tips](#safety-tips)
 7. [Maintenance](#maintenance)
 8. [Potential Modifications](#potential-modifications)
-9. [Step by step construction procedure](Step by Step Construction Procedure.md)
+9. [Step by step construction procedure](Step-by-Step-Construction-Procedure.md)
 10. [Licence](#licence)
 11. 
 
