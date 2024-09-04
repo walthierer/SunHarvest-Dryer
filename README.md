@@ -22,7 +22,7 @@ By the end of this training, participants will be able to:
     - [Cover the Inner Surface](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#4-cover-the-inner-surface-with-a-black-dpc-polythene)
     - [Add Ventilation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#5-add-ventilation)
     - [Optional Enhancements](#6-optional-enhancements)
-5. [Usage Instructions](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#6-optional-enhancements)
+5. [Gallery](Gallery.md)
 6. [Construction Expenditure](Expenditure.md)
 
 ## Introduction
