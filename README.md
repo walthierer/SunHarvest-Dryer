@@ -28,6 +28,7 @@ By the end of this training, participants will be able to:
 8. [Potential Modifications](#potential-modifications)
 9. [Credits](#credits)
 10. [Licence](#licence)
+11. [Step by step construction procedure](Step by Step Construction Procedure.md)
 
 ## Introduction
 
