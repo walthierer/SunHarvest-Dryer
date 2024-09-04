@@ -23,7 +23,7 @@ By the end of this training, participants will be able to:
     - [Add Ventilation](#5-add-ventilation)
     - [Optional Enhancements](#6-optional-enhancements)
 5. [Usage Instructions](#usage-instructions)
-6. [Construction Expenditure](expenditure.md)
+6. [Construction Expenditure](Expenditure.md)
 8. [Potential Modifications](#potential-modifications)
 9. [Step by step construction procedure](Step%20by%20Step%20Construction%20Procedure.md)
 10. [Licence](#licence)
