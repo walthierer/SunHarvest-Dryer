@@ -2,7 +2,7 @@
 
 ## Gallery Title
 
-Welcome to the photo gallery! Below you’ll find a collection of images related to [your topic or project].
+Some of the pictures taken during the construction of the prototype
 
 ---
 
