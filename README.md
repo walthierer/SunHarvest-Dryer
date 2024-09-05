@@ -14,16 +14,17 @@ By the end of this training, participants will be able to:
 ## Table of Contents
 1. [Introduction](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#introduction)
 2. [Principles of Operation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#principles-of-operation)
-3. [Tools & Materials](Tools%20and%20materials%20used.md)
-4. [Construction Steps](Step%20by%20Step%20Construction%20Procedure.md)
+3. [Literature review and advantages of this prototype](Advantages%20of%20the%20SunHarvest%20Dryer.md)
+4. [Tools & Materials](Tools%20and%20materials%20used.md)
+5. [Construction Steps](Step%20by%20Step%20Construction%20Procedure.md)
     - [Build the Frame](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#1-build-the-frame)
     - [Install the Trays](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#2-install-the-trays)
     - [Attach the Cover](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#3-attach-the-cover)
     - [Cover the Inner Surface](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#4-cover-the-inner-surface-with-a-black-dpc-polythene)
     - [Add Ventilation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#5-add-ventilation)
     - [Optional Enhancements](#6-optional-enhancements)
-5. [Gallery](Gallery.md)
-6. [Construction Expenditure](Expenditure.md)
+6. [Gallery](Gallery.md)
+7. [Construction Expenditure](Expenditure.md)
 
 ## Introduction
 
