@@ -18,7 +18,7 @@ The first step is constructing the main frame, which supports the entire structu
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/40ea6e07-8c5e-4093-a0f6-62652c82a5bd)
 
----
+
 
 ## Step 2: Install the Trays
 
@@ -27,11 +27,6 @@ Now, you'll add the trays that will hold the food items.
 1. **Cut the wire mesh** to fit within the frame.
 2. **Create tray frames** using smaller wood pieces, ensuring a stable structure.
 3. **Install the trays** at various levels within the frame.
-
-
-
-
----
 
 
 
@@ -44,8 +39,6 @@ The black interior will absorb more heat and improve the drying efficiency.
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/769bbe05-965d-49c4-9098-c12b5399900f)
 
-
----
 ## Step 4: Attach the Cover
 
 To allow sunlight to enter and trap heat inside the dryer, you'll need to cover the frame.
@@ -55,7 +48,6 @@ To allow sunlight to enter and trap heat inside the dryer, you'll need to cover 
 
 ![P1068080](https://github.com/user-attachments/assets/c1af47be-5409-40b6-bf92-aea4213ece0f)
 
----
 ## Step 5: Add Ventilation
 
 Proper ventilation helps in drying food by allowing moisture to escape.
@@ -66,8 +58,6 @@ Proper ventilation helps in drying food by allowing moisture to escape.
 ![P1068126](https://github.com/user-attachments/assets/4da1ed9d-7744-4642-98c0-e462f5dbae04)
 
 
----
-
 ## Step 6: Optional Enhancements
 
 You can enhance your dryer for better efficiency:
@@ -75,13 +65,9 @@ You can enhance your dryer for better efficiency:
 1. **Add a thermometer** to monitor the internal temperature.
 2. **Reflective surfaces** can be added to increase heat retention.
 
----
-
 ## Finished Product
 
 Once all steps are complete, your SunHarvest Dryer is ready to use!
 ![P1068209](https://github.com/user-attachments/assets/8e2ac0c8-bf9a-4683-a2dd-1a09a93f10a0)
 
-
----
 
