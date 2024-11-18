@@ -17,7 +17,7 @@ The first step is constructing the main frame, which supports the entire structu
 
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/40ea6e07-8c5e-4093-a0f6-62652c82a5bd)
-<em>Building the frame</em>
+<p align="center"><em>Building the frame</em></p>
 
 
 
