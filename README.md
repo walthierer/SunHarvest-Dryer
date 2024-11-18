@@ -64,4 +64,4 @@ The SunHarvest Dryer operates by:
 This project is a collaboration between the Youth Empowerment Foundation at Pagirinya Refugee Settlement and r0g_agency for open culture and critical transformation gGmbH (Berlin), funded by the German Federal Ministry for Economic Cooperation and Development (BMZ). Licensed under a Creative Commons Attribution-ShareAlike 4.0 Unported License (CC BY-SA 4.0).
 
 ## Licence
-
+[Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/walthierer/SunHarvest-Dryer/blob/main/LICENCE)
