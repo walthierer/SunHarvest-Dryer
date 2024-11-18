@@ -19,7 +19,7 @@ By the end of this training, participants will be able to:
 5. [Construction Steps](Step%20by%20Step%20Construction%20Procedure.md)
     - [Build the Frame](Step%20by%20Step%20Construction%20Procedure.md#step-1-build-the-frame)
     - [Install the Trays](Step%20by%20Step%20Construction%20Procedure.md#step-2-install-the-trays)
-    - [Cover the Inner Surface](Step%20by%20Step%20Construction%20Procedure.md#step-3-cover-the-inner-surface-with-a-black-dpc-polythene)
+    - [Cover the Inner Surface](Step%20by%20Step%20Construction%20Procedure.md#step-3-cover-the-inner-surface-with-black-dpc-polythene)
     - [Attach the Cover](Step%20by%20Step%20Construction%20Procedure.md#step-4-attach-the-cover)
     - [Add Ventilation](Step%20by%20Step%20Construction%20Procedure.md#step-5-add-ventilation)
 6. [Gallery](Gallery.md)
