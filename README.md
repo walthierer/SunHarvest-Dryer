@@ -12,16 +12,16 @@ By the end of this training, participants will be able to:
 - Apply DIY (Do It Yourself) and DIWO (Do It With Others) methodologies to promote sustainable practices within their communities.
 
 ## Table of Contents
-1. [Introduction](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#introduction)
-2. [Principles of Operation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/README.md#principles-of-operation)
+1. [Introduction](README.md#introduction)
+2. [Principles of Operation](README.md#principles-of-operation)
 3. [Literature review and advantages of this prototype](Advantages%20of%20the%20SunHarvest%20Dryer.md)
 4. [Tools & Materials](Tools%20and%20materials%20used.md)
-5. [Construction Steps](Step%20by%20Step%20Construction%20Procedure.md)
-    - [Build the Frame](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#1-build-the-frame)
-    - [Install the Trays](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#2-install-the-trays)
-    - [Attach the Cover](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#3-attach-the-cover)
-    - [Cover the Inner Surface](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#4-cover-the-inner-surface-with-a-black-dpc-polythene)
-    - [Add Ventilation](https://github.com/amoko-jose/SunHarvest-Dryer/blob/main/Step%20by%20Step%20Construction%20Procedure.md#5-add-ventilation)
+5. [Construction Steps](Step_by_Step_Construction_Procedure.md#step-by-step-guide)
+    - [Build the Frame](/Step_by_Step_Construction_Procedure.md#step-1-build-the-frame)
+    - [Install the Trays](/Step_by_Step_Construction_Procedure.md#step-2-install-the-trays)
+    - [Cover the Inner Surface](/Step_by_Step_Construction_Procedure.md#step-3-cover-the-inner-surface-with-black-dpc-polythene)
+    - [Attach the Cover](/Step_by_Step_Construction_Procedure.md#step-4-attach-the-cover)
+    - [Add Ventilation](/Step_by_Step_Construction_Procedure.md#step-5-add-ventilation)
 6. [Gallery](Gallery.md)
 7. [Construction Expenditure](Expenditure.md)
 8. [OER slides ](Document%20slides.md)
@@ -58,10 +58,9 @@ The SunHarvest Dryer operates by:
   <img src="https://github.com/user-attachments/assets/fa405c0a-3e86-42d8-8848-75c9585854e8" alt="Asknet" style="width: 45%; display: inline-block; vertical-align: middle;">
 </p>
 
-
 ## Credits
 
 This project is a collaboration between the Youth Empowerment Foundation at Pagirinya Refugee Settlement and r0g_agency for open culture and critical transformation gGmbH (Berlin), funded by the German Federal Ministry for Economic Cooperation and Development (BMZ). Licensed under a Creative Commons Attribution-ShareAlike 4.0 Unported License (CC BY-SA 4.0).
 
 ## Licence
-
+[Creative Commons Attribution-ShareAlike 4.0 International](LICENCE)

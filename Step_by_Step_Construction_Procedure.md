@@ -17,6 +17,7 @@ The first step is constructing the main frame, which supports the entire structu
 
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/40ea6e07-8c5e-4093-a0f6-62652c82a5bd)
+<p align="center"><em>Building the frame</em></p>
 
 
 
@@ -53,7 +54,7 @@ To allow sunlight to enter and trap heat inside the dryer, you'll need to cover 
 Proper ventilation helps in drying food by allowing moisture to escape.
 
 1. **Drill holes** for air circulation at the top and bottom.
-2. **Install vents** with mesh to prevent insects from entering the dryer.
+2. **Install vents with mesh** to prevent insects from entering the dryer.
 
 ![P1068126](https://github.com/user-attachments/assets/4da1ed9d-7744-4642-98c0-e462f5dbae04)
 
