@@ -22,9 +22,9 @@ By the end of this training, participants will be able to:
     - [Cover the Inner Surface](/Step_by_Step_Construction_Procedure.md#step-3-cover-the-inner-surface-with-black-dpc-polythene)
     - [Attach the Cover](/Step_by_Step_Construction_Procedure.md#step-4-attach-the-cover)
     - [Add Ventilation](/Step_by_Step_Construction_Procedure.md#step-5-add-ventilation)
-6. [Gallery](Gallery.md)
+6. [Gallery](/digital_materials/photo_gallery.md)
 7. [Construction Expenditure](Expenditure.md)
-8. [OER slides ](Document%20slides.md)
+8. [OER slides ](digital_materials/presentation_slides.md)
 
 ## Introduction
 
