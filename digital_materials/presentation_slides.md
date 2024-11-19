@@ -1,6 +1,6 @@
 # Presentation Slides
 
-You will find all the slides in [this folder](digital_materials/presentation_slides). Feel free to download and use them. 
+You will find all the slides in [this folder](/digital_materials/presentation_slides). Feel free to download and use them. 
 
 ![slide 1](/digital_materials/presentation_slides/01.jpg)
 ![slide 2](/digital_materials/presentation_slides/02.jpg)
