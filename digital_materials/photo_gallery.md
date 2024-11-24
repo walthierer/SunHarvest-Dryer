@@ -1,14 +1,11 @@
 # Photo Gallery
-
-## Gallery Title
-
 Some of the pictures taken during the construction of the prototype
 
 ---
 
 ### Image Gallery
 
-| ![P1067978](https://github.com/user-attachments/assets/eedeeffc-df7b-4a2f-863c-b68633526cc8) | ![P1067951](https://github.com/user-attachments/assets/6c01082c-f1e8-481f-920c-f9124528fc6a) | ![P1067993](https://github.com/user-attachments/assets/d27465e8-7939-4db4-bfbf-2f6260974a87) |
+| ![image 1](/digital_materials/images_gallery/364441778-eedeeffc-df7b-4a2f-863c-b68633526cc8.jpeg) | ![image 2](/digital_materials/images_gallery/364441839-6c01082c-f1e8-481f-920c-f9124528fc6a.jpeg) | ![image 3](/digital_materials/images_gallery/364441871-d27465e8-7939-4db4-bfbf-2f6260974a87.jpeg) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 
 | ![P1068044](https://github.com/user-attachments/assets/9c33340b-7bd5-4a96-8040-8cf9e1791c12) | ![P1068226](https://github.com/user-attachments/assets/435dc8ef-5d4d-4e6b-b2b9-089d9875a5b5) | ![P1068221](https://github.com/user-attachments/assets/cba7db41-93fa-4ca1-a2f0-0b9fe9342323) |

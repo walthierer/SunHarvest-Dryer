@@ -1,8 +1,8 @@
 # **Advantages of the SunHarvest Dryer (SHD) for Pagirinya Refugee Settlement**
 
 ## **1. Reducing Food Wastage in Pagirinya Refugee Settlement**
-In Pagirinya Refugee Settlement, food wastage is a pressing issue, particularly during the harvest season when surplus crops often go to waste. The **SunHarvest Dryer** offers a practical solution to this challenge, helping families preserve their produce for longer periods.
-a
+In Pagirinya Refugee Settlement, food wastage is a pressing issue, particularly during the harvest season when surplus crops often go to waste. The **SunHarvest Dryer** offers a practical solution to this challenge, helping families to preserve their produce for longer periods.
+
 ### **Food Wastage in Pagirinya**
 - Pagirinya is home to thousands of refugees, mainly from South Sudan, who depend heavily on small-scale farming.
 - Unfortunately, up to **40%** of their harvests, especially perishable crops like fruits and vegetables, are lost due to a lack of proper preservation methods.
