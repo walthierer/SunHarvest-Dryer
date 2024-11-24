@@ -1,6 +1,6 @@
 
 ## Step by step guide
-Before starting, make sure you have the following tools and materials. [click here to view necessary tool](Tools%20and%20materials%20used.md)
+Before starting, make sure you have the following tools and materials. [click here to view necessary tool](tools_materials_used.md)
 
 ---
 
