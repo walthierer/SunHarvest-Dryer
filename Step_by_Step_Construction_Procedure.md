@@ -12,27 +12,34 @@ The first step is constructing the main frame, which supports the entire structu
 
 1. **Measure the frame**: 
    - The frame should be 193 cm in length and 96.5 cm in width. One side must be higher to allow rainwater runoff and maximize sunlight exposure.
-2. **Cut the timber**: 
-   - Use a saw to cut your timber pieces according to the measured dimensions.
+     <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/c5b8fce8-05ac-4f96-b910-b77febccaf4f" width="45%" alt="P1067860">
+  <img src="https://github.com/user-attachments/assets/6e0fe54e-8d76-4c18-9cbd-8a619b8a1f3f" width="45%" alt="P1067833">
+</div><p></p>
+
+2.**Cut the timber**
+   - Use a saw to cut your timber pieces according to the measured dimensions
+
 3. **Assemble the frame**:
    - Secure the pieces together with nails and wood glue.
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/84314b9d-c120-49c4-b0a3-61201b3c6d07" width="45%" alt="P1067902">
+  <img src="https://github.com/user-attachments/assets/40f7a6b3-5d76-4aa8-b481-9715088ea539" width="45%" alt="P1067881">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+  <img src="https://github.com/user-attachments/assets/3dacfad3-9d91-442d-a4fe-3917b0a6d3bb" width="45%" alt="P1067882">
+  <img src="https://github.com/user-attachments/assets/2e049a83-8c2d-4707-b385-4330ead5d0c0" width="45%" alt="Building the frame">
+</div>
 
 
-![Building the frame_11zon](https://github.com/user-attachments/assets/2e049a83-8c2d-4707-b385-4330ead5d0c0)
-<p align="center"><em>Building the frame</em></p>
 
-
-
-## Step 2: Install the Trays
+## Step 2: Install the Trays (Optional)
 
 Now, you'll add the trays that will hold the food items.
-
-1. **Cut the wire mesh** to fit within the frame.
-2. **Create tray frames** using smaller wood pieces, ensuring a stable structure.
-3. **Install the trays** at various levels within the frame.
-
-![trays_11zon](https://github.com/user-attachments/assets/fd98414d-770c-4437-a44a-b1b636025f8b)
-<p align="center"><em> Setting up the trays</em></p>
+1. **Create tray frames** using smaller wood pieces, ensuring a stable structure.
+2. **Cut the wire mesh** to fit within the frame.
+3. **Install the trays** at various levels within the frame to increase the capacity of the dryer acoording to one on preference.
 
 
 
@@ -77,7 +84,8 @@ You can enhance your dryer for better efficiency:
 ## Finished Product
 
 Once all steps are complete, your SunHarvest Dryer is ready to use!
-![P1068209](https://github.com/user-attachments/assets/8e2ac0c8-bf9a-4683-a2dd-1a09a93f10a0)
-<p align="center"><em>The youth pose with the finished prototype </em></p>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/8e2ac0c8-bf9a-4683-a2dd-1a09a93f10a0" width="45%" alt="P1068209">
+  <img src="https://github.com/user-attachments/assets/6cce7a92-8e6c-4c12-bde8-1d2f076ddac6" width="45%" alt="P1068133">
+</div>
 
