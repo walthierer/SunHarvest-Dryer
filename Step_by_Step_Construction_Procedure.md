@@ -5,6 +5,7 @@ Before starting, make sure you have the following tools and materials. [click he
 ---
 
 ## Step 1: Build the Frame
+
 ![photo_5913437438901077652_x_11zon](https://github.com/user-attachments/assets/22adc03a-06ac-4453-bc0e-ac3e200bbf79)
 <p align="center"><em>The blueprint</em></p>
 The first step is constructing the main frame, which supports the entire structure of the solar dryer.
@@ -29,6 +30,7 @@ Now, you'll add the trays that will hold the food items.
 1. **Cut the wire mesh** to fit within the frame.
 2. **Create tray frames** using smaller wood pieces, ensuring a stable structure.
 3. **Install the trays** at various levels within the frame.
+
 ![trays_11zon](https://github.com/user-attachments/assets/fd98414d-770c-4437-a44a-b1b636025f8b)
 <p align="center"><em> Setting up the trays</em></p>
 
@@ -76,6 +78,6 @@ You can enhance your dryer for better efficiency:
 
 Once all steps are complete, your SunHarvest Dryer is ready to use!
 ![P1068209](https://github.com/user-attachments/assets/8e2ac0c8-bf9a-4683-a2dd-1a09a93f10a0)
-<p align="center"><em>The youth pose for the finished prototype </em></p>
+<p align="center"><em>The youth pose with the finished prototype </em></p>
 
 
