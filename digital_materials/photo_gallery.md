@@ -8,7 +8,7 @@ Some of the pictures taken during the construction of the prototype
 | ![image 1](/digital_materials/images_gallery/364441778-eedeeffc-df7b-4a2f-863c-b68633526cc8.jpeg) | ![image 2](/digital_materials/images_gallery/364441839-6c01082c-f1e8-481f-920c-f9124528fc6a.jpeg) | ![image 3](/digital_materials/images_gallery/364441871-d27465e8-7939-4db4-bfbf-2f6260974a87.jpeg) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 
-| ![P1068044](https://github.com/user-attachments/assets/9c33340b-7bd5-4a96-8040-8cf9e1791c12) | ![P1068226](https://github.com/user-attachments/assets/435dc8ef-5d4d-4e6b-b2b9-089d9875a5b5) | ![P1068221](https://github.com/user-attachments/assets/cba7db41-93fa-4ca1-a2f0-0b9fe9342323) |
+| ![P1068044](/digital_materials/images_gallery/364441839-6c01082c-f1e8-481f-920c-f9124528fc6a.jpeg) | ![P1068226](https://github.com/user-attachments/assets/435dc8ef-5d4d-4e6b-b2b9-089d9875a5b5) | ![P1068221](https://github.com/user-attachments/assets/cba7db41-93fa-4ca1-a2f0-0b9fe9342323) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 
 | ![P1068219](https://github.com/user-attachments/assets/27c2d97d-315a-4b67-9def-4fd2ef324eed) | ![P1068216](https://github.com/user-attachments/assets/62044003-4899-4bc7-81df-f6442a5bce2b) | ![P1068194](https://github.com/user-attachments/assets/48091a59-b0f4-4ead-a548-229c334b3145) |
