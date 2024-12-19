@@ -19,4 +19,3 @@ Some of the pictures taken during the construction of the prototype.
 
 ---
 
-Each image is accompanied by captions to provide context, making the gallery more user-friendly. If there are specific image names you'd like highlighted, or further groupings to add, let me know!
