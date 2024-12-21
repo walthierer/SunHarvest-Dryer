@@ -20,7 +20,6 @@ Some of the pictures taken during the construction of the prototype.
 ---
 
 | ![image 1](/digital_materials/images_gallery/364441778-eedeeffc-df7b-4a2f-863c-b68633526cc8.jpeg) | ![image 2](/digital_materials/images_gallery/364441839-6c01082c-f1e8-481f-920c-f9124528fc6a.jpeg) | ![image 3](/digital_materials/images_gallery/364441871-d27465e8-7939-4db4-bfbf-2f6260974a87.jpeg) |
-| ![Preparing the timber](/digital_materials/images_gallery/Cuttting%20the%20timber.JPG) | ![Installing the Wire Mesh](/digital_materials/images_gallery/After%20putting%20the%20wire%20mesh.JPG) | ![Completed Black Surface](/digital_materials/images_gallery/After%20placing%20the%20black%20surface.JPG) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 
 
