@@ -7,11 +7,11 @@ Some of the pictures taken during the construction of the prototype.
 
 | Image 1: Preparing the Timber | Image 2: Installing the Wire Mesh | Image 3: Completed Black Surface |
 |:-----------------------------:|:----------------------------------:|:--------------------------------:|
-| ![Image 1](/digital_materials/images_gallery/Cuttting%20the%20timber.JPG) | ![Image 2](/digital_materials/images_gallery/After%20putting%20the%20wire%20mesh.JPG) | ![Image 3](/digital_materials/images_gallery/After%20placing%20the%20black%20surface.JPG) |
+| ![Image 1](/digital_materials/images_gallery/Cuttting%20the%20timber.JPG) | ![Image 2](/digital_materials/images_gallery/After%20putting%20the%20wire%20mesh.JPG) | ![Image 3](/digital_materials/images_gallery/placing_black_surface.JPG) |
 
 | Image 4: Ventilation Added | Image 5: Supporting the Top Cover | Image 6: Finished Dryer Backside |
 |:--------------------------:|:--------------------------------:|:-------------------------------:|
-| ![Image 4](/digital_materials/images_gallery/Adding%20ventilation.JPG) | ![Image 5](/digital_materials/images_gallery/Adding%20support%20to%20the%20top%20cover.JPG) | ![Image 6](/digital_materials/images_gallery/back%20side%20of%20the%20dryer%20(completed).JPG) |
+| ![Image 4](/digital_materials/images_gallery/Adding%20ventilation.JPG) | ![Image 5](/digital_materials/images_gallery/Adding_support_top_cover.jpg) | ![Image 6](/digital_materials/images_gallery/back%20side%20of%20the%20dryer%20(completed).JPG) |
 
 | Image 7: Closing with Polythene | Image 8: Assembling Components | Image 9: Final Construction Touches |
 |:-------------------------------:|:------------------------------:|:---------------------------------:|
