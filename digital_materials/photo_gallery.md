@@ -18,6 +18,7 @@ Some of the pictures taken during the construction of the prototype.
 | ![Image 7](/digital_materials/images_gallery/closing%20the%20side%20of%20the%20dryer%20with%20a%20DPC%20polythene.JPG) | ![Image 8](/digital_materials/images_gallery/_MG_5432.JPG) | ![Image 9](/digital_materials/images_gallery/364441871-d27465e8-7939-4db4-bfbf-2f6260974a87.jpeg) |
 
 ---
+### Image Gallery with one Table (looks a bit more sorted)
 
 | | | |
 |:-------------: |:---------------:| :-------------:|
